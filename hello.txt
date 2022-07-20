@@ -1,1 +1,2 @@
 Bonjour , aujourd'hui est ma 1ére experience sur Git.
+Il fait trés chaud dans la salle.
